@@ -1,0 +1,13 @@
+YouLendProject\Pages\LoginPage.class
+YouLendProject\Pages\WomenShoppingPage.class
+YouLendProject\Pages\AddressTabPage.class
+YouLendProject\Utils.class
+YouLendProject\LoadProp.class
+YouLendProject\Pages\PaymentPageTab.class
+YouLendProject\Pages\CartPage.class
+YouLendProject\Pages\HomePage.class
+YouLendProject\BasePage.class
+YouLendProject\Pages\MyAccountPage.class
+YouLendProject\BrowserSetup.class
+YouLendProject\Pages\OrderConfirmationPage.class
+YouLendProject\Pages\ShippingTabPage.class

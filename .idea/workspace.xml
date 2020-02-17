@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df8305c-018c-4e78-b889-df4bb92665f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xkp3HLhncBt86RD9zJU9ZQX6W0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/YouLendProject" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="YouLendProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roma\Desktop\TechTestYouLend\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestRunner">
+    <configuration name="Feature:UserJourney" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="C:\Users\Roma\Desktop\TechTestYouLend\src\test\Resources\YouLendProject" />
+      <option name="GLUE" value="YouLendProject" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TechTestYouLend" />
+      <option name="PROGRAM_PARAMETERS" value="--plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit">
+      <module name="TechTestYouLend" />
+      <option name="PACKAGE_NAME" value="YouLendProject" />
+      <option name="MAIN_CLASS_NAME" value="YouLendProject.TestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechTestYouLend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YouLendProject.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="YouLendProject" />
+      <option name="MAIN_CLASS_NAME" value="YouLendProject.TestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea " />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TechTestYouLend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YouLendProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="YouLendProject" />
+      <option name="MAIN_CLASS_NAME" value="YouLendProject.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature:UserJourney" />
+      <item itemvalue="JUnit.TestRunner" />
+      <item itemvalue="TestNG.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df8305c-018c-4e78-b889-df4bb92665f0" name="Default Changelist" comment="" />
+      <created>1581599745453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581599745453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="22" width="988" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581933397294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="22" width="988" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581933397294" />
+    <state x="275" y="151" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581883436847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="151" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581883436847" />
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581875072549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581875072549" />
+    <state x="280" y="129" key="EnvironmentVariablesDialog" timestamp="1581877448808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="129" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581877448808" />
+    <state x="181" y="122" key="FileChooserDialogImpl" timestamp="1581882129386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581882129386" />
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1581935137378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581935137378" />
+    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1581935137377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581935137377" />
+    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1581935137377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581935137377" />
+    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1581935137378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581935137378" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1581892643792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1581892643792" />
+    <state x="0" y="22" key="Maven.ArtifactSearchDialog" timestamp="1581933936833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581933936833" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1581875887880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581875887880" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1581886739942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1581886739942" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581932994188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581932994188" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1581896045529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581896045529" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1581895587702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581895587702" />
+  </component>
+</project>
